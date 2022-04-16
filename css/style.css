@@ -537,6 +537,7 @@ section {
   line-height: 2;
   color: #aaa;
   padding: 1rem 0;
+  text-align: justify;
 }
 
 .contact .row .info-container .box-container {
